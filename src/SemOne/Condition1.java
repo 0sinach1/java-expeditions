@@ -1,3 +1,5 @@
+package SemOne;
+
 import java.util.Scanner;
 
 public class Condition1 {

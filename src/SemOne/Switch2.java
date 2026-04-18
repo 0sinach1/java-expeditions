@@ -1,3 +1,5 @@
+package SemOne;
+
 import java.util.Scanner;
 public class Switch2 {
     public static void main(String[] args){

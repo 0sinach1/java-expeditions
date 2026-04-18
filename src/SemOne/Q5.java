@@ -1,6 +1,8 @@
+package SemOne;
+
 import java.util.Scanner;
 
-public class Q7 {
+public class Q5 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -11,7 +13,7 @@ public class Q7 {
         System.out.print("Enter second number: ");
         int b = input.nextInt();
 
-        int max = Math.max(a, b);   // get larger
+        int max = Math.max(a, b);
         int lcm = max;
 
         while (true) {
@@ -24,4 +26,3 @@ public class Q7 {
         System.out.println("LCM = " + lcm);
     }
 }
-
